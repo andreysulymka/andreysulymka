@@ -17,4 +17,4 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=andreysulymka)  
 
-![Profile views](https://gpvc.arturio.dev/andreysulymka)  
+
